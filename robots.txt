@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://clemonnieracad-beep.github.io/sitemap.xml
+Sitemap: https://clemonnier.github.io/sitemap.xml
